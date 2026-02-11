@@ -33,7 +33,7 @@
 17) Getter functions should never revert.
 
 
-This was by far the hardest and the most time consuming project i have ever done so far.
+
 
 THE MAJOR ISSUE OF THIS PROTOCOL IS IF THE PRICE OF THE COLLATERAL FALLS DRAMATICALLY UNDER
 THE COLLATERALIZATION RATIO WITHIN A BLOCK. INSOLVENCY WILL OCCUR. 
